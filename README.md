@@ -1,2 +1,4 @@
 # hello-world
-Just for me
+
+-----------------------------
+Hi i am Khit Samno, i am a student 
